@@ -27,8 +27,8 @@
   
   ## Documentations projet
   
-  1. SFD
-  
-  2. Chiffrage
-  
-  3. Cahier de tests
+  1. [SFD](https://docs.google.com/document/d/1PWQbXQAr6nYlZHapnuzb-IvZHkaL8dhV8KiqI0nae5Y/edit?usp=sharing)
+  2. [Chiffrage](https://docs.google.com/spreadsheets/d/12cPok14pU8tnejYP6GV8gVy76S_Eqh-w1hvSaMXM31Y/edit?usp=sharing)  
+  3. [Cahier de tests](https://docs.google.com/document/d/1bm7djLDh4nXlwrjYaHkaCieGqOji3tXvFQzPaJJk-uE/edit?usp=sharing)
+  4. Gestion projet en ToDoList sur Trello
+  ![Trello image](https://github.com/makina-dev-hpquiz/.github/blob/main/profile/trello1.PNG)
