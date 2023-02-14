@@ -6,23 +6,23 @@
   Angular 14 / Ionic 6  
   
 2. [HP-Core frontend](https://github.com/makina-dev-hpquiz/hp-core-frontend)  
-  Application mobile permettant de rédiger une Lecture constitué de questions, de lier ces dernières entre-elles au besoin.  
+  Application mobile permettant de rédiger une Lecture constituée de questions, de lier ces dernières entre elles au besoin.  
   L'application stocke en interne dans une base de données Sqlite le regroupement Lecture/Questions avant transfert en direction du backend.  
   Angular 14 / Ionic 6  
   
 3. HP-Core backend (Non développée)  
-  Application Serveur receptionnant les questions pour validation, stockage en BDD Postgresql.  
+  Application Serveur réceptionnant les questions pour validation, stockage en BDD Postgresql.  
   Elle génère également le fichier Json nécessaire à l'application principale.    
   Java / Spring Boot 2 / Hibernate  
   
 4. [HP-Indus frontend](https://github.com/makina-dev-hpquiz/hp-indus-frontend)  
   Application Web gérant le côté Industrialisation, gestion de projet, centralisation des liens documentaires  
-  Fonctionne avec Tomcat  
+  Fonctionne avec Tomcat 9 
   Angular 14 / Ionic 6  
   
 5. [HP-Indus backend](https://github.com/makina-dev-hpquiz/hp-indus-backend)  
   Application Serveur permettant la gestion de tickets et la restitution des APKs générés.  
-  Fonctionne avec Tomcat / Postgresql  
+  Fonctionne avec Tomcat 9 / Postgresql  
   Java / Spring Boot 2 / Hibernate  
   
   ## Documentations projet
